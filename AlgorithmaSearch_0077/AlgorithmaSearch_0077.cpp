@@ -26,5 +26,9 @@ void input()
 		cout << "<" << (i + i) << ">";
 		cin >> arr[i];
 	}
+}
 
+void LinearSearch()
+{
+	char ch;
 }
