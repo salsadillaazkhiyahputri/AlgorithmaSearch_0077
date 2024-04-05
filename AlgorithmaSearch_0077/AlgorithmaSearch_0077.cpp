@@ -7,5 +7,10 @@ int i; //index of array elements
 
 void input()
 {
-
+	while (true)
+	{
+		cout << "Enter the number of elements in the array: ";
+		cin >> n;
+		
+	}
 }
