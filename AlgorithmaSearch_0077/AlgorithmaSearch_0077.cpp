@@ -50,6 +50,7 @@ void LinearSearch()
 				cout << "\n" << item << "found at position " << (i + i) << endl; //step 6
 				break;
 			}
+			i++; //step 4
 		}
 	}
 }
